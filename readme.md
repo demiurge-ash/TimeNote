@@ -18,6 +18,7 @@ Download the project repository and run the command below
 composer install --no-dev
 php artisan migrate
 ```
+Configure .env file.
 
 ### Used
 - PHP 7.1
