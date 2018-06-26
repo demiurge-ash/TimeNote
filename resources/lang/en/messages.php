@@ -1,22 +1,21 @@
 <?php
 return [
     'error_hash_not_found' => 'TimeNote not found!',
-    'error_not_now' => 'Time has not yet come! Please wait until :time',
-    'enter_text' => 'Enter text your note...',
+    'error_not_now' => 'It’s not time yet! Please wait until :time',
+    'enter_text' => 'Enter text of your note...',
     'send' => 'Send',
     'done' => 'Done!',
     'done_time' => 'Note will be available at :time',
-    'how' => 'How it works?',
+    'how' => 'How does it work?',
     'copy' => 'Copy url',
     'about' => 'About',
     'about_author' => 'Author',
     'about_used' => 'Used',
-    'note_created' => 'Note created at',
+    'note_created' => 'Note was created at',
     'note_activated' => 'and is open for viewing from',
-    'about_site' => 'You can create Timenote — automatically activated message at the time appointed by you, 
-        but not more than a month from the current date. Very convenient to prepare answers
-        to a riddles or to make predictions on sports. Activated messages will be deleted after a week.
-        You will get a unique link, which you can send to your interlocutors.<br>
-        Messages on the server are stored in an encrypted form. We do not store data about you, 
-        except the sender\'s IP<br>',
+    'about_site' => 'Here you can create a Timenote. It is a message automatically activated at the time appointed 
+        by you which can be up to a month from the current date. Timenotes are very convenient to prepare answers 
+        to riddles or to make sports predictions. Activated messages are stored for a week. After creating a Timenote 
+        you get a unique link which you can send to your friends.<br> 
+        The messages are encrypted on the server. We do not store any data about you except for the sender\'s IP.<br>',
 ];
