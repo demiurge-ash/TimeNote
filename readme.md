@@ -8,10 +8,6 @@ You will get a unique link, which you can send to your interlocutors.
 Messages on the server are stored in an encrypted form. 
 We do not store data about you, except the sender's IP.
 
-### Demo
-https://timenote.demiart.ru/
-![timenote preview](https://timenote.demiart.ru/img/preview.png) 
-
 ### Installation
 Download the project repository and run the command below
 ```bash
