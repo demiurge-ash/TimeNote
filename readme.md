@@ -1,4 +1,4 @@
-![timenote logo](https://timenote.demiart.ru/img/timenote.png) 
+![timenote logo](public/img/preview.png) 
 # Timenote
 <p><a href="./LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a></p>
 Automatically activated messages at the time appointed by you. 
