@@ -26,7 +26,7 @@
 					</a>
 				</h1>
 			</div>
-            @if (request()->route()->getName() != 'about')
+            @if (request()->route() && (request()->route()->getName() != 'about'))
                 <div class="pad-proc"><a href="{{ route('about') }}">@lang('messages.how')</a></div>
             @endif
 		</div>
