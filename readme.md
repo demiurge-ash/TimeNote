@@ -1,4 +1,4 @@
-![timenote logo](public/img/preview.png) 
+![timenote preview](public/img/preview.png) 
 # Timenote
 <p><a href="./LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a></p>
 Automatically activated messages at the time appointed by you. 
@@ -25,6 +25,7 @@ Configure .env file.
 ### Used
 - PHP 7.4
 - Laravel 7
+- PHPUnit 9
 - Bootstrap 4.5
 - jQuery 1.10
 - DateTimePicker 2.5
