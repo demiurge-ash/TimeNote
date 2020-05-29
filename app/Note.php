@@ -7,6 +7,13 @@ use App\Helpers\Routines;
 
 class Note extends Model
 {
+    protected $fillable = [
+        'time_show',
+        'message',
+        'hash',
+        'ip'
+    ];
+
     /**
      * Deletes activated notes older than a week
      */
